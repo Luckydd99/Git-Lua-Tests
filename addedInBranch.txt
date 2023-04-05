@@ -1,1 +1,3 @@
 Hello!
+
+Custom command added on VScode. CTRL+SHIFT+^ = ~.
